@@ -1,7 +1,6 @@
 # Semoga, allah, melaknat orang-orang yang suka rekod sc orang, aamiin
 import threading, os, sys, json, time
 import requests as ru
-from fake_useragent import UserAgent
 from warn.warn import *
 from etc.bener import *
 from etc.ua import *
