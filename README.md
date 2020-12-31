@@ -6,7 +6,7 @@ Tutorial:
 apt update && apt upgrade
 pkg update
 pkg install python
-git clone https://github.com/AbilSeno/spamallforone
+git clone https://github.com/MR404cyber/spamallforone
 cd spamallforone
 pip install -r harus.txt
 python brutal.py
